@@ -1,0 +1,104 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+    <style name="Theme1" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/red500</item>
+        <item name="colorPrimaryDark">@color/red700</item>
+        <item name="colorAccent">@color/red500</item>
+    </style>
+    <style name="Theme2" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/pink500</item>
+        <item name="colorPrimaryDark">@color/pink700</item>
+        <item name="colorAccent">@color/pink500</item>
+    </style>
+    <style name="Theme3" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/purple500</item>
+        <item name="colorPrimaryDark">@color/purple700</item>
+        <item name="colorAccent">@color/purple500</item>
+    </style>
+    <style name="Theme4" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/deeppurple500</item>
+        <item name="colorPrimaryDark">@color/deeppurple700</item>
+        <item name="colorAccent">@color/deeppurple500</item>
+    </style>
+    <style name="Theme5" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/indigo500</item>
+        <item name="colorPrimaryDark">@color/indigo700</item>
+        <item name="colorAccent">@color/indigo500</item>
+    </style>
+    <style name="Theme6" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/blue500</item>
+        <item name="colorPrimaryDark">@color/blue700</item>
+        <item name="colorAccent">@color/blue500</item>
+    </style>
+    <style name="Theme7">
+        <item name="colorPrimary">@color/lightblue500</item>
+        <item name="colorPrimaryDark">@color/lightblue700</item>
+        <item name="colorAccent">@color/lightblue500</item>
+    </style>
+    <style name="Theme8" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/cyan500</item>
+        <item name="colorPrimaryDark">@color/cyan700</item>
+        <item name="colorAccent">@color/cyan500</item>
+    </style>
+    <style name="Theme9" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/teal500</item>
+        <item name="colorPrimaryDark">@color/teal700</item>
+        <item name="colorAccent">@color/teal500</item>
+    </style>
+    <style name="Theme10" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/green500</item>
+        <item name="colorPrimaryDark">@color/green700</item>
+        <item name="colorAccent">@color/green500</item>
+    </style>
+    <style name="Theme11" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/lightgreen500</item>
+        <item name="colorPrimaryDark">@color/lightgreen700</item>
+        <item name="colorAccent">@color/lightgreen500</item>
+    </style>
+    <style name="Theme12" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/lime500</item>
+        <item name="colorPrimaryDark">@color/lime700</item>
+        <item name="colorAccent">@color/lime500</item>
+    </style>
+    <style name="Theme13" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/yellow500</item>
+        <item name="colorPrimaryDark">@color/yellow700</item>
+        <item name="colorAccent">@color/yellow500</item>
+    </style>
+    <style name="Theme14" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/amber500</item>
+        <item name="colorPrimaryDark">@color/amber700</item>
+        <item name="colorAccent">@color/amber500</item>
+    </style>
+    <style name="Theme15" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/orange500</item>
+        <item name="colorPrimaryDark">@color/orange700</item>
+        <item name="colorAccent">@color/orange500</item>
+    </style>
+    <style name="Theme16" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/deeporange500</item>
+        <item name="colorPrimaryDark">@color/deeporange700</item>
+        <item name="colorAccent">@color/deeporange500</item>
+    </style>
+    <style name="Theme17" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/brown500</item>
+        <item name="colorPrimaryDark">@color/brown700</item>
+        <item name="colorAccent">@color/brown500</item>
+    </style>
+    <style name="Theme18" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/grey500</item>
+        <item name="colorPrimaryDark">@color/grey700</item>
+        <item name="colorAccent">@color/grey500</item>
+    </style>
+    <style name="Theme19" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/bluegrey500</item>
+        <item name="colorPrimaryDark">@color/bluegrey700</item>
+        <item name="colorAccent">@color/bluegrey500</item>
+    </style>
+</resources>

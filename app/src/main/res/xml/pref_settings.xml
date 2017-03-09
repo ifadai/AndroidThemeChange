@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="通用"
+        android:key="pref_cate_base">
+        <com.fadai.test.ThemeChange.View.ThemeChoicePreference
+            android:key="theme_change" />
+        <SwitchPreference
+            android:key="recycle_bin"
+            android:title="设置二"
+            android:defaultValue="true"/>
+        <PreferenceScreen
+            android:title="设置三"
+            android:key="screen_lock">
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:title="设置四"
+            android:key="about">
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>
